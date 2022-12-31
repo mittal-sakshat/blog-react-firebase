@@ -1,1 +1,1 @@
-React Project - Blog website
+React Firebase Project - Blog website
